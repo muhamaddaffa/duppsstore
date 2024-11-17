@@ -813,7 +813,7 @@ export default function Home() {
                   </svg>
                 </a>
                 <p className="mt-30 text-lg color-palette-1 mb-30" />
-                StoreGG membantu gamers
+                DupsStore membantu gamers
                 <br /> untuk menjadi pemenang sejati
                 <p />
                 <p className="mt-30 text-lg color-palette-1 mb-30">
