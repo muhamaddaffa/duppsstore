@@ -272,7 +272,7 @@ export default function CompleteCheckout() {
           </a>
           <a
             className="btn btn-whatsapp fw-medium text-lg color-palette-1 rounded-pill"
-            href="#"
+            href="/#"
             role="button"
           >
             WhatsApp ke Admin
