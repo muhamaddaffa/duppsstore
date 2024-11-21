@@ -42,15 +42,15 @@ export default function Home() {
               </svg>
             </a>
             <button
-              className="navbar-toggler"
+              className="navbar-todupsler"
               type="button"
-              data-bs-toggle="collapse"
+              data-bs-todupsle="collapse"
               data-bs-target="#navbarNav"
               aria-controls="navbarNav"
               aria-expanded="false"
-              aria-label="Toggle navigation"
+              aria-label="Todupsle navigation"
             >
-              <span className="navbar-toggler-icon"></span>
+              <span className="navbar-todupsler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto text-lg gap-lg-0 gap-2">
@@ -899,18 +899,18 @@ export default function Home() {
                     <ul className="list-unstyled">
                       <li className="mb-6">
                         <a
-                          href="mailto: hi@store.gg"
+                          href="mailto: hi@store.dups"
                           className="text-lg color-palette-1 text-decoration-none"
                         >
-                          hi@store.gg
+                          hi@store.dups
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
-                          href="mailto: team@store.gg"
+                          href="mailto: team@store.dups"
                           className="text-lg color-palette-1 text-decoration-none"
                         >
-                          team@store.gg
+                          team@store.dups
                         </a>
                       </li>
                       <li className="mb-6">
