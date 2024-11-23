@@ -80,7 +80,7 @@ export default function SignIn() {
               <div className="button-group d-flex flex-column mx-auto pt-50">
                 <a
                   className="btn btn-sign-in fw-medium text-lg text-white rounded-pill mb-16"
-                  href="../index"
+                  href="../"
                   role="button"
                 >
                   Continue to Sign In
