@@ -91,7 +91,7 @@ export default function Member() {
               </svg>
               <p className="item-title m-0">
                 <a
-                  href="../member/transactions.html"
+                  href="../member/transactions"
                   className="text-lg text-decoration-none"
                 >
                   Transactions
@@ -275,7 +275,7 @@ export default function Member() {
                 />
               </svg>
               <p className="item-title m-0">
-                <a href="" className="text-lg text-decoration-none">
+                <a href="../sign-in" className="text-lg text-decoration-none">
                   Log Out
                 </a>
               </p>
