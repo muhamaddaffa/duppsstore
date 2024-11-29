@@ -1,3 +1,4 @@
+import Image from "next/image";
 interface StepItemProps {
   icon?: "step1" | "step2" | "step3";
   title: string;
@@ -9,7 +10,7 @@ export default function StepItem(props: StepItemProps) {
   return (
     <div className="col-lg-4">
       <div className="card feature-card border-0">
-        <img
+        <Image
           src={`/icon/${icon}.svg`}
           alt="icon step"
           className="mb-30"
