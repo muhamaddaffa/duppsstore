@@ -15,11 +15,9 @@ export default function Illustration() {
                 alt=""
               />
               <div>
-                <p className="text-sm fw-medium color-palette-1 m-0">
-                  Shayna Anne
-                </p>
+                <p className="text-sm fw-medium color-palette-1 m-0">Dupsy</p>
                 <p className="text-xs fw-light color-palette-2 m-0">
-                  Professional Gamer
+                  Bussines Man
                 </p>
               </div>
             </div>
